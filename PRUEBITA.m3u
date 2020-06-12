@@ -1,20 +1,20 @@
 #EXTM3U
 #EXTINF:-1,*Mejor proveedor de IPTV premium | Más de 2500 canales Full HD
 https://archive.org/serve/videopromo_201911/videopromo.mp4
-#EXTINF:0,TVE 24H
-http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
+#EXTINF:0,JONVLOGS21Tv	
+https://dcunilive189-lh.akamaihd.net/i/dclive_1@15231/index_150_av-p.m3u8?sd=10
 
-#EXTINF:-1, FDF | HD
-https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+#EXTINF:-1, LA 1 Rtve	| HD
+https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 
-#EXTINF:-1, Divinity | HD
-http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+#EXTINF:-La 2 Rtve	 | HD
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 
-#EXTVLCOPT:network-caching=1000
-https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8
+#EXTVLCOPT:Cuatro	
+http://linear02-i.akamaihd.net/hls/live/837811/cuatro/master.m3u8?hdnts=bb22a7fda046cceead5da8d964caf620
 
-#EXTINF:-1, Divinity
-https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_2.m3u8
+#EXTINF:-1, Telecinco	
+http://linear01-i.akamaihd.net/hls/live/837810/telecinco/master.m3u8?hdnts=bb22a7fda046cceead5da8d964caf620
 
 #EXTINF:0,BeMad
 https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
@@ -91,20 +91,20 @@ https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
 #EXTINF:-1, ETBEITBEUS
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8
 
-#EXTINF:0,www.freemium-iptv.org le ofrece esta lista gratis [Apoyanos con unos clics en la publicidad]
-http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
+#EXTINF:0,+24 Rtve	
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve02_lv3_aosv4_gl0/irtve02_lv3_aosv4_gl0.isml/master.m3u8
 
 #EXTINF:0,Lancelot TV
 http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
 
-#EXTINF:0,ESPAÑA TELEVISIÓN ASTURIANA
-http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+#EXTINF:0,Informativos Telecinco		
+https://mdslivehls-i.akamaihd.net/hls/live/571669/noticias/bitrate_1.m3u8
 
-#EXTVLCOPT:network-caching=1000
-http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
+#EXTVLCOPT:Canal Parlamento	
+https://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
 
-#EXTINF:0,ESPAÑA INFORMACION TV
-http://teledifusion.tv:1935/informaciontvlive/informaciontvlive/livestream.m3u8
+#EXTINF:0,Canal Parlamento- Lenguaje de Signos
+http://congresodirecto-f.akamaihd.net/i/congreso3_1@72034/index_600_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:0,ESPAÑA MURCIA
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
@@ -112,17 +112,17 @@ http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 #EXTINF:0,ESPAÑA NAVARRA
 http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
 
-#EXTINF:0,ESPAÑA IB3
-http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/bitrate_2.m3u8
+#EXTINF:0,Canal Parlamento- Subtitulado	
+http://congresodirecto-f.akamaihd.net/i/congreso4_1@53937/index_600_av-p.m3u8?sd=10&rebase=on
 
-#EXTVLCOPT:network-caching=1000
-http://video.telesafor.com/hls/video_low.m3u8
+#EXTVLCOPT:La Moncloa (Presidente)	
+https://cdnswitch-mediahub.overon.es/stream/stream.m3u8?key=R6w5wbcxW3dLF9aNOGEsHuoNhqfSJoiRWNDWLLfNslI&pwd=QheEdHkaeHFGDHJgIwzUDoqcVjjFMef8TMGuGvkMets&stream=y3-IxQxNk4XjlfJDtBjIh7tfO628d9gbkd010uKioms&output=ginkIjHWeyffMLRZNMVovht3RnH_feedjshkMm7sr14&channel=D1tXjvcs_5NeEEMxP6mrmSggh3Uyu3kE5jyqGlgCZ4A&protocol=4CMm-Q0epGZ0SHQGeELoqqA2gfzFVCFwoiACYszyPM4&type=3pIgQ1TALsxZg7Zf0kZLkA4InWPfKONROAImuoufxKg
 
-#EXTVLCOPT:network-caching=1000
-http://188.165.135.22/tvbarbastro/livestream/playlist.m3u8
+#EXTVLCOPT:La Moncloa (Ministros)	
+https://cdnswitch-mediahub.overon.es/stream/stream.m3u8?key=R6w5wbcxW3dLF9aNOGEsHuoNhqfSJoiRWNDWLLfNslI&pwd=QheEdHkaeHFGDHJgIwzUDoqcVjjFMef8TMGuGvkMets&stream=o0RCNMRf-BPdBiuDSId7vbxANj4YFVpbXkxNkFKm35s&output=z3mwepuDBMOnja63VsgAcCGwmmOPD-I5yFYOiyCvBcc&channel=FBDoImE2NP77XpNbdycjnwCkI0YjxLeqTKr8QGV9bAI&protocol=4CMm-Q0epGZ0SHQGeELoqqA2gfzFVCFwoiACYszyPM4&type=3pIgQ1TALsxZg7Zf0kZLkA4InWPfKONROAImuoufxKg
 
-#EXTVLCOPT:network-caching=1000
-http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/chunklist_w117839380_b480000_sles.m3u8
+#EXTVLCOPT:SENADO	
+http://senadolive.akamaized.net/hls/live/2006591/punto2/master.m3u8
 
 #EXTINF:0,Melilla TV
 http://melillatv-hls.flumotion.com/melillatv/melillatv_all/melillatv/melillatv_source/chunks.m3u8
@@ -133,17 +133,17 @@ http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8
 #EXTINF:0,13 TV
 http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8
 
-#EXTINF:0,SP:Canal Parlamento - Madrid
-http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
+#EXTINF:0,SP:Radio Nacional	
+https://rtvev4-live-hss.secure.footprint.net/egress/ahandler/rtvegl0/irtve08_lv3_aosv4_gl0/irtve08_lv3_aosv4_gl0.isml/master.m3u8?hls_no_audio_only
 
-#EXTINF:0,SP:324 - 324 Cataluña
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
+#EXTINF:0,SP:Radio 3	
+https://rtvev4-live-hss.secure.footprint.net/egress/ahandler/rtvegl0/rne_c201_lv3_aosv4_gl0/rne_c201_lv3_aosv4_gl0.isml/master.m3u8
 
-#EXTINF:0,SP:C. Extremadura - Extramadura
-http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8
+#EXTINF:0,SP:C. Radio 24h Rtve	
+https://rtvev4-live-hss.secure.footprint.net/egress/ahandler/rtvegl0/rne_c102_lv3_aosv4_gl0/rne_c102_lv3_aosv4_gl0.isml/master.m3u8
 
-#EXTINF:0,SP:IB3 - Baleares
-http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/bitrate_3.m3u8
+#EXTINF:0,SP:Del 40 al 1	
+https://40al1-lh.akamaihd.net/i/directo40al1_x@764444/master.m3u8
 
 #EXTINF:0,SP:Aragon TV - Aragon
 http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
