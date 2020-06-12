@@ -18,7 +18,7 @@ http://linear01-i.akamaihd.net/hls/live/837810/telecinco/master.m3u8?hdnts=bb22a
 https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
 
 #EXTINF:-1,SPAIN:BOING
-https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
+http://linear01-i.akamaihd.net/hls/live/837814/boing/master.m3u8?hdnts=bb22a7fda046cceead5da8d964caf620
 
 #EXTINF:-1,REAL MADRID TV HD
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
@@ -34,6 +34,7 @@ https://cdnswitch-mediahub.overon.es/stream/stream.m3u8?key=gyfZZ_uR2ITyThK3qwXu
 
 #EXTINF:0,Super 3
 https://directes-tv-es.ccma.cat/es/ngrp:c33_web/playlist.m3u8
+
 #EXTINF:0,SP:La 1
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7.mpd
 
@@ -43,7 +44,7 @@ https://live.bemad.es/hls/live/2005333/bemad/bitrate_4.m3u8
 #EXTINF:0,SP:Energy
 https://live.energytv.es/hls/live/2005337/energy/bitrate_4.m3u8
 
-#EXTINF:-1, ETBEITBEUS
+#EXTINF:-1, ETBEUS
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8
 
 #EXTINF:0,+24 Rtve	
@@ -194,7 +195,7 @@ https://cdnlive.shooowit.net/25televisiolive/smil:channel1.smil/master.m3u8
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
 
 #EXTINF:0,LaOtra	
-http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/master.m3u8
+http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
 
 #EXTINF:0,Webcam OndaMadrid	
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/tvradio/index.m3u8
