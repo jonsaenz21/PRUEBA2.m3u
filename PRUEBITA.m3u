@@ -38,10 +38,10 @@ https://directes-tv-es.ccma.cat/es/ngrp:c33_web/playlist.m3u8
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7.mpd
 
 #EXTINF:0,BE MAD
-https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_2.m3u8
+https://live.bemad.es/hls/live/2005333/bemad/bitrate_4.m3u8
 
 #EXTINF:0,SP:Energy
-https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
+https://live.energytv.es/hls/live/2005337/energy/bitrate_4.m3u8
 
 #EXTINF:-1, ETBEITBEUS
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8
@@ -80,10 +80,10 @@ http://senadolive.akamaized.net/hls/live/2006591/punto2/master.m3u8
 http://melillatv-hls.flumotion.com/melillatv/melillatv_all/melillatv/melillatv_source/chunks.m3u8
 
 #EXTINF:0,7TV Murcia
-http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 
 #EXTINF:0,13 TV
-http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8
+https://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8
 
 #EXTINF:0,SP:Radio Nacional	
 https://rtvev4-live-hss.secure.footprint.net/egress/ahandler/rtvegl0/irtve08_lv3_aosv4_gl0/irtve08_lv3_aosv4_gl0.isml/master.m3u8?hls_no_audio_only
@@ -98,7 +98,7 @@ https://rtvev4-live-hss.secure.footprint.net/egress/ahandler/rtvegl0/rne_c102_lv
 https://40al1-lh.akamaihd.net/i/directo40al1_x@764444/master.m3u8
 
 #EXTINF:0,SP:Aragon TV - Aragon
-http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
 #EXTINF:0,SP:Canal Sur Andalucía	
 https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/master.m3u8
@@ -128,10 +128,10 @@ https://secure3.todostreaming.es/live/generaltv-livestream1.m3u8
 https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8
 
 #EXTVLCOPT:La 1 Canarias	
-https://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@134665/master.m3u8
+https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@134669/master.m3u8
 
 #EXTINF:0,La 2 Canarias	
-https://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@120903/master.m3u8
+https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@159580/index_0400_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:0,24h Canarias	
 https://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@300207/master.m3u8
@@ -176,17 +176,16 @@ https://cdnlive.shooowit.net/la8valladolidlive/smil:streamswitchingchannel.smil/
 https://cdnlive.shooowit.net/la8zamoralive/smil:streamswitchingchannel.smil/playlist.m3u8
 
 #EXTINF:0,La 1 Catalunya	
-https://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@117262/master.m3u8
+https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@584095/index_0400_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:0,La 2 Catalunya	
-https://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@113085/master.m3u8
+https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@155343/index_0400_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:0,24h Catalunya	
-https://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@156275/master.m3u8
+https://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@156275/index_0400_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:0,TV3 Càmeres	
-http://rtmp.one.https://directes-tv-int.ccma.cat/int/ngrp:beauties_web/playlist_DVR.m3u8
-
+https://directes-tv-int.ccma.cat/int/ngrp:beauties_web/playlist_DVR.m3u8
 
 #EXTINF:0,25 TV	
 https://cdnlive.shooowit.net/25televisiolive/smil:channel1.smil/master.m3u8
