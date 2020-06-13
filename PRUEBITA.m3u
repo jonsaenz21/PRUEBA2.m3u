@@ -8,11 +8,26 @@ https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 #EXTINF:-La 2 Rtve	 | HD
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 
+#EXTINF:-ANTENA 3	 | HD
+https://directo.atresmedia.com/1592085680_1f2cc08f6cc3ed01c948d1f0cea73c87ec6f2940/antena3/bitrate_3.m3u8
+
 #EXTVLCOPT:Cuatro	
 http://linear02-i.akamaihd.net/hls/live/837811/cuatro/master.m3u8?hdnts=bb22a7fda046cceead5da8d964caf620
 
 #EXTINF:-1, Telecinco	
 http://linear01-i.akamaihd.net/hls/live/837810/telecinco/master.m3u8?hdnts=bb22a7fda046cceead5da8d964caf620
+
+#EXTINF:-1, LA SEXTA HD	
+https://directo.atresmedia.com/1592085225_c66392673eee50fdbff5aeac48bffda28912f2dd/lasexta/bitrate_3.m3u8
+
+#EXTINF:-1, NOVA HD	
+https://livestartover.atresmedia.com/geonova/bitrate_3.m3u8
+
+#EXTINF:-1, NEOX HD	
+https://livestartover.atresmedia.com/geoneox/bitrate_3.m3u8
+
+#EXTINF:-1, ATRESERIES HD	
+https://directo.atresmedia.com/1592085641_8c9a97d7f453b6b3be3cd8a0f769e89b4673a6fb/geoa3series/bitrate_3.m3u8
 
 #EXTINF:0,BeMad
 https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
