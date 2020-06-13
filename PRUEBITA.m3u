@@ -210,7 +210,7 @@ http://37.187.7.106/teleribera/live.m3u8
 http://95.216.150.122:1935/gcm4/gcm4/chunklist_w392197813.m3u8
 
 #EXTINF:0,TVR
-https://5924d3ad0efcf.streamlock.net/rioja/rioja/playlist.m3u8
+http://teledifusion.tv/rioja/rioja/chunklist_w542543280.m3u8
 
 #EXTINF:0,Popular TV La Rioja	
 https://186vod-adaptive.akamaized.net/exp=1592105158~acl=%2F1e3a5420-2f41-4da1-b220-7de73c5adc69%2F%2A~hmac=764727af44b1830a0e35ccb5bf0b9112b3657d44e1f5abcad4f37a599b904c86/1e3a5420-2f41-4da1-b220-7de73c5adc69/sep/video/e72940c8,0e142173,6cc4ce03,a72b9766/master.m3u8
