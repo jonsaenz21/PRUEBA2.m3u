@@ -129,7 +129,7 @@ https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8
 https://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@134665/master.m3u8
 
 #EXTINF:0,La 2 Canarias	
-https://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@120903/master.m3u8
+https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@159580/index_0400_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:0,24h Canarias	
 https://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@300207/master.m3u8
@@ -177,7 +177,7 @@ https://cdnlive.shooowit.net/la8zamoralive/smil:streamswitchingchannel.smil/play
 https://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@117262/master.m3u8
 
 #EXTINF:0,La 2 Catalunya	
-https://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@113085/master.m3u8
+https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@155343/index_0650_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:0,24h Catalunya	
 https://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@156275/master.m3u8
