@@ -279,16 +279,13 @@ https://cadena100-cope.flumotion.com/chunks.m3u8
 https://cadena100bcn-cope.flumotion.com/chunks.m3u8
 
 #EXTINF:0,BIT FM	
-http:\/\/server1.beatproducciones.com:8024\/stream.m3u
+http://server1.beatproducciones.com:8024/stream
 
 #EXTINF:0,EUROPA FM	
 https://livefastly-webs.europafm.com/europafm/audio/chunklist.m3u8
 
 #EXTINF:0,EUROPA FM GIPUZKOA	
-http://www.irratia.net/online/efmg2.m3u
-
-#EXTINF:0,CANAL EBRO LOGROÑO	
-http://streaming.capsulaimposible.com:8000//listen.m3u8?sid=1
+http://www.irratia.net/online/efmg2.m3u8
 
 #EXTINF:0,CANAL EBRO LOGROÑO	
 http://streaming.capsulaimposible.com:8000//listen.m3u8?sid=1
