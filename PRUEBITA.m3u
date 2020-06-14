@@ -288,7 +288,7 @@ https://livefastly-webs.europafm.com/europafm/audio/chunklist.m3u8
 http://stream.irratia.net/2b
 
 #EXTINF:0,EUROPA FM RIBERA	
-https://player.lcinternet.es/v9/cc432_id688/?pl=quicktime&c=Europa%20FM
+http://icecast-streaming.nice264.com/europafmback
 
 #EXTINF:0,CANAL EBRO LOGROÑO	
 http://streaming.capsulaimposible.com:8000//listen.m3u8?sid=1
