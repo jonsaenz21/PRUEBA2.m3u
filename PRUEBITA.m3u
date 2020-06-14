@@ -3,34 +3,25 @@
 https://dcunilive189-lh.akamaihd.net/i/dclive_1@15231/index_150_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1, LA 1 Rtve|HD
-https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
+https://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@584096/master.m3u8
 
 #EXTINF:-La 2 Rtve	 | HD
-https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
-
-#EXTINF:-ANTENA 3	 | HD
-https://directo.atresmedia.com/1592085680_1f2cc08f6cc3ed01c948d1f0cea73c87ec6f2940/antena3/bitrate_3.m3u8
-
-#EXTVLCOPT:Cuatro	
-http://linear02-i.akamaihd.net/hls/live/837811/cuatro/master.m3u8?hdnts=bb22a7fda046cceead5da8d964caf620
+https://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@60414/master.m3u8
 
 #EXTINF:-1, Telecinco	
 http://linear01-i.akamaihd.net/hls/live/837810/telecinco/master.m3u8?hdnts=bb22a7fda046cceead5da8d964caf620
 
-#EXTINF:-1, LA SEXTA HD	
-https://directo.atresmedia.com/1592085225_c66392673eee50fdbff5aeac48bffda28912f2dd/lasexta/bitrate_3.m3u8
-
 #EXTINF:-1, NOVA HD	
-https://livestartover.atresmedia.com/geonova/bitrate_3.m3u8
+https://livestartover.atresmedia.com/geonova/master.m3u8
 
 #EXTINF:-1, NEOX HD	
 https://livestartover.atresmedia.com/geoneox/bitrate_3.m3u8
 
-#EXTINF:-1, ATRESERIES HD	
-https://directo.atresmedia.com/1592085641_8c9a97d7f453b6b3be3cd8a0f769e89b4673a6fb/geoa3series/bitrate_3.m3u8
-
 #EXTINF:0,BeMad
-https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
+http://linear02-i.akamaihd.net/hls/live/837815/bemad/master.m3u8?hdnts=bb22a7fda046cceead5da8d964caf620
+
+#EXTINF:0,FDF 
+http://linear02-i.akamaihd.net/hls/live/837813/fdf/master.m3u8?hdnts=bb22a7fda046cceead5da8d964caf620
 
 #EXTINF:-1,SPAIN:BOING
 http://linear01-i.akamaihd.net/hls/live/837814/boing/master.m3u8?hdnts=bb22a7fda046cceead5da8d964caf620
@@ -141,7 +132,7 @@ https://secure3.todostreaming.es/live/generaltv-livestream1.m3u8
 https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8
 
 #EXTINF:0,La 1 Canarias	
-https://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@134665/master.m3u8
+https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@134669/master.m3u8
 
 #EXTINF:0,La 2 Canarias	
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@120903/master.m3u8
@@ -189,10 +180,10 @@ https://cdnlive.shooowit.net/la8valladolidlive/smil:streamswitchingchannel.smil/
 https://cdnlive.shooowit.net/la8zamoralive/smil:streamswitchingchannel.smil/playlist.m3u8
 
 #EXTINF:0,La 1 Catalunya	
-https://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@117262/master.m3u8
+https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@584095/master.m3u8
 
 #EXTINF:0,La 2 Catalunya	
-https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@155343/index_0650_av-p.m3u8?sd=10&rebase=on
+https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@155343/master.m3u8
 
 #EXTINF:0,24h Catalunya	
 https://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@156275/master.m3u8
@@ -279,4 +270,4 @@ https://5924d3ad0efcf.streamlock.net/elcomerciodos/elcomerciodoslive/playlist.m3
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 
 #EXTINF:0,Popular TV Murcia	
-https://cdn01.yowi.tv/CCCCCCCCCC/master.m3u8
+https://cdn01.yowi.tv/CCCCCCCCCC/live-1000.m3u8
