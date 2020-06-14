@@ -291,7 +291,7 @@ http://stream.irratia.net/2b
 http://icecast-streaming.nice264.com/europafmback
 
 #EXTINF:0,CANAL EBRO LOGROÑO	
-http://streaming.capsulaimposible.com:8000//listen.m3u8?sid=1
+http://streaming.capsulaimposible.com:8000/stream/2/canalebro.mp3
 
 #EXTINF:0,ONDA CERO LOGROÑO	
 https://livefastly-webs.ondacero.es/logrono-pull/audio/chunklist.m3u8
