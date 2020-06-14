@@ -225,10 +225,10 @@ https://186vod-adaptive.akamaized.net/exp=1592105158~acl=%2F1e3a5420-2f41-4da1-b
 https://5940924978228.streamlock.net/8009/8009/master.m3u8
 
 #EXTINF:0,ETB 1	
-https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8
+https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8?start=1592121605
 
 #EXTINF:0,ETB 2	
-https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8
+https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8?start=1592120848
 
 #EXTINF:0,ETB Deportes	
 https://etbvgeo-lh.akamaihd.net/i/OCA2HD_1@756104/master.m3u8
