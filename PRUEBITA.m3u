@@ -317,6 +317,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_RIOJA.
 #EXTINF:0,COPE Logroño	
 https://wecast-m01-03.flumotion.com/copesedes/logrono.mp3
 
-#EXTINF:-1 tvg-logo="https://progressive.enetres.net/getPhoenixResource.php?u=863690D2607511E098B669C2DFD72085&f=embeds/02/live-default.jpg",AZTECA NOTICIAS
+#EXTINF:-1 tvg-logo="https://progressive.enetres.net/getPhoenixResource.php?u=863690D2607511E098B669C2DFD72085&f=embeds/02/live-default.jpg",RADIO CIRCULO MADRID
 https://play.cdn.enetres.net/863690D2607511E098B669C2DFD72085028/02984/playlist.m3u8
 
