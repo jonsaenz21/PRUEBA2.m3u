@@ -272,49 +272,49 @@ http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 #EXTINF:0,Popular TV Murcia	
 https://cdn01.yowi.tv/CCCCCCCCCC/master.m3u8
 
-#EXTINF:0,CADENA 100	
+#EXTINF:-1 tvg-logo="https://cadena100-cdnsta.agilecontent.com/cadena100-frontend/public/assets/img/logo-rss.png",CADENA 100
 https://cadena100-cope.flumotion.com/chunks.m3u8
 
-#EXTINF:0,CADENA 100 BARCELONA	
+#EXTINF:-1 tvg-logo="https://cadena100-cdnsta.agilecontent.com/cadena100-frontend/public/assets/img/logo-rss.png",CADENA 100 BARCELONA
 https://cadena100bcn-cope.flumotion.com/chunks.m3u8
 
-#EXTINF:0,Cadena 100 Vegas Altas	
-https://eu1.lhdserver.es:8017/stream?1592161102449
+#EXTINF:-1 tvg-logo="https://cadena100-cdnsta.agilecontent.com/cadena100-frontend/public/assets/img/logo-rss.png",CADENA 100 VEGAS ALTAS
+https://eu1.lhdserver.es:8017/stream?1592415557741
 
-#EXTINF:0,BIT FM	
-http://server1.beatproducciones.com:8024/stream
+#EXTINF:-1 tvg-logo="https://bitfm.es/player/tmp/images/logo.1473956919.png",BIT FM
+https://server1.emitironline.com:8024/;
 
-#EXTINF:0,EUROPA FM	
+#EXTINF:-1 tvg-logo="https://static.europafm.com/img/logo_EuropaFM_2.png",EUROPA FM
 https://livefastly-webs.europafm.com/europafm/audio/chunklist.m3u8
 
-#EXTINF:0,EUROPA FM GIPUZKOA	
+#EXTINF:-1 tvg-logo="http://www.irratia.net/images/europafm.png",EUROPA FM GIPUZKOA
 http://stream.irratia.net/2b
 
-#EXTINF:0,EUROPA FM RIBERA	
-http://icecast-streaming.nice264.com/europafmback
+#EXTINF:-1 tvg-logo="http://www.europafmribera.com/wp-content/uploads/2014/10/Europa-FM-Ribera-logo-restyling-positivo1.png",EUROPA FM RIBERA
+http://srv0625.lcinternet.com:8033/stream
 
-#EXTINF:0,CANAL EBRO LOGROÑO	
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/879105505624547328/JzPAs936_400x400.jpg",Canal Ebro	
 http://streaming.capsulaimposible.com:8000/stream/2/canalebro.mp3
 
-#EXTINF:0,ONDA CERO LOGROÑO	
-https://livefastly-webs.ondacero.es/logrono-pull/audio/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1258476066915733504/fBkTCgxO_400x400.jpg",Onda Cero Logroño	
+https://livefastly-webs.ondacero.es/logrono-pull/audio/master.m3u8
 
-#EXTINF:0,COPE RIOJA	
+#EXTINF:-1 tvg-logo="https://scontent-mad1-1.xx.fbcdn.net/v/t1.0-1/p200x200/46316369_10156674786055821_8529664372497186816_n.png?_nc_cat=1&_nc_sid=0c64ff&_nc_ohc=WzANOyhwsjgAX90fnjl&_nc_ht=scontent-mad1-1.xx&oh=4a39e00b901e4980179fc7b8e9e3f54e&oe=5F0EB047",COPE Rioja	
 https://wecast-b01-01.flumotion.com/copesedes/logrono.mp3
 
-#EXTINF:0,Radio Nacional La Rioja		
+#EXTINF:-1 tvg-logo="https://jonvlogs21.es/wp-content/uploads/2020/06/WEBCAM-RNE-1024x576.png",Radio Nacional La Rioja	
 https://rnerio.rtveradio.cires21.com/rnerio.mp3
 
-#EXTINF:0,Radio 5 La Rioja	
+#EXTINF:-1 tvg-logo="https://img2.rtve.es/p/124830/?w=240&imgProgApi=logo",Radio 5 La Rioja	
 https://radio5rio.rtveradio.cires21.com/radio5rio.mp3
 
-#EXTINF:0,SER - Radio Arnedo	
+#EXTINF:-1 tvg-logo="https://www.radioarnedo.com/wp-content/uploads/2018/06/advanced_ads-tu-radio.jpg",SER - Radio Arnedo	
 http://streaming2.formulaclick.com:8094/radioarnedo.mp3
 
-#EXTINF:0,SER - Radio Rioja	
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-HYlYQg7AujA/UUInVQ4h35I/AAAAAAAAAwg/-4cZyILQ_rs/s1600/radiorioja.jpg",SER - Radio Rioja	
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_RIOJA.mp3
 
-#EXTINF:0,COPE Logroño	
+#EXTINF:-1 tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAhFBMVEX///88YKoqVaU0W6gpVKUlUqTx8/g5XqmYqM4xWacgT6Pg5fDs7vW6w9wtV6b6+/1ad7XR2OmAlcTByuGLnchVcrNHaK6To8zX3ex8kcNAZK20v9vv8ffL0+aotdXO1edkfrl4jcCisNJPbrFrg7tmgLkYS6GmstNwh70LRqAAQZ5XdbVeWWO4AAAMjElEQVR4nO1d6YKyuBKNYV8kCAgIgoB2N3N9//e7WUBpV2JLh57J+fEtGjCHWlKpVAIAEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEldATrFszIAgMfNw54ju0DvhhmYFbRVCz1IoLA+qmp21XwUS3befQw+jvQYtw1hcwVA8VfOTnS66jz+AvmwNqNwgN6Bpqdkm/KOiTIMMKo/Y9VBgHP1BswzX4+h1Cqv6hege8yGMtYfKeYOkug9F93o8wqPKyY9xPP4ROToH+AI/ylFr/4I9mtZ4+7uCYjWi+/8MafyqADsxwv28xVjyOpgbHLVSNIv70OufCbAX42auYY6zt37Oj8Dbu6K53EThvUGADIa3Es3mBnLtXfwI1KVoPlco32GCA3i5aEYXMN9MEEc483Kp5VtVtKM4pzg1t99OEFO05xOmFu9W0Q5WKppZB+dWjuIdMOJ5jIto/4NQ+zGsSjQ5ivZNkcwtwEQ0O4zm/W50gBl4m/SV6fx4GJnwKNyfzAgZrEAwwcabliCOUMXqqWNNqqMExl5ovvgwsY4SQJGpm2JSP9rBsAQ6m5hfRw1+qVuRMIK5yt3bhdJy+yYDbgURRC+I0AtBwq3awoQYQt6usjlfwil6w9oJYljxitDQ2KSWj6IBRaWlVrwi7AkCLkUVRxAEvF7RO6clktFPx1CEEdxyhjOGN8y7jFVUgQRBzqekZxVlGElRnIry+plLguMoCrRBAHS+9NqN1OBzWzQskcn9JZeSerdyn888qmEIXb2oOTzpveTuY0UVK0EAHhcCfe/qlQ32eERRqA1ipOPj5/sEHymqaIIgH8/wpg32uOduRI6DDJuxZmg8JHhPUcUTBOuRZvhIRRluUhStojhky95F8BZF4TaI4Yw0w1FrgJe2KHqYoCjGjfdPbLDHd48qeKDvUI5ZjRm/ijtU1FlIEHdpBMMxNni634niHGyQYMTsl4fgWVHnQnBMVDrSBnswdzODcbDD4dlw+Gygv0aiGTMi+HT6y6eiDCa093MpTXjO0HqlFkbXZ7Qr4QlDoxLdwR/jqQw/+O+pJ/WMatmepqGslveW+hoqtjlFZ19C+3S08DgpojUJIuBsKI4ZD7koojW742woRiOiNrgZfz/9VFelzYSiOSbyhqMLRfT1WSdmQnFcmmYsxe+VceosKO7GrTp4oyii9XernoUtOiOr9cZIUV9fuq05SFGPxzEc4W709fXTmoMtHsemvJ9J8VqCM6EYjC4qfUwR3ZAgvUo4RY6lp0cUL53MjCiOTSfSzt61Rf1BAbVwReVZAb4nxds2OBeKoxcu7lN8VgIveNDgK4i6NfTft8HTgxFKEfGt419L0R2xiUGsFDmLZy/djZuNuV6oLfLW7X2X4jiCYinqfAS/U3TjsRog0hYj3rq2M8XxBIVS5ChW6Dvb2eJYFWUQqKj8hfpMijwSFEux4N9NAiNeCVKKX6Io+vx13rDhlSC5SNh+2Ve2W9w8MuoxjKMoghzz4GF/ua/QBO58Sn9jz4xSiSPIM9V/HarQRUV38q1rC0/cniAKzmpvfhix6E2kz1ehfgbxJytsp2WocCzvTIVwihMjehjKHJb2x+9/4Sco1o+eMN2RA+pMFvYfJwV/ANEDxRluNsmwyF/tMB0cewKKylo0rSEm2JevrOfgRs9I331GjeWLjmUukXLP3B/Ca+dG8JXkxANom3mpKAOq3nYKiOhlp7tI3nMilmIIj7bvInzhTIgrwGrOJ5i6/k+PHDJmq6E9SvVHYlTX84i1H2HbvmyNhmfM67DEeyj8lzgalhLNbxC8g+Wa2xwNz/tbR8+HR41jp/DCgJY5jxMEOZBuLG8UScPw4DqfYwzzFHr+8ezlD3h496x186fU8zvc5SZWvdurMYZheVrW5n+YHoPu5IHvadDzLMVgUBTPg5rlR3n6Z5znMyCnyJvg8PGRZfuPahM1eeH+ScuTkJCQkJD4rwCF0UfVmt+OMkybtvqIBi8XS5cEIQvI9GWPYYapa9Jt3k7NW9FNKSIllWiqqmHYi9MbKMLM1hhOM9jEVm3b1uyY5CQcDdoUn/vhjfDXBAvCUTc0//q3GvufX89pOLGnrpNwFyZrtdvSimoNxtFyFza+B/tDO0zPN82gshQPi9FRjMSkGOYoTFjleRntLcMlNd+fNyrBc1v77bDcySyjm8mhvFvd8z2v6URX7C2P1S+ZKu3wKrNqsmxza63a1Oj1yKcFpO7NVyH++nsgkW8tzr/pUBkG3uD0BLJLi07VO4bAtDTK8IaRmRprstQElq1dIle1S7vYQThciUYGO2G8Z1hAW3/CMNUW85llxN7VQf7txc77UFWJEHuGIbTRXS1lTXZqPBuGjq1e2sX26pSdGBJ30jMMrJhqqaszDBr2DCOITRWkYZeIcvMgMDtNQWFXlZiaQYTtfxVOPGFewqunvVLti48CWulsqhuA3DSyyPtwHGURU2RDeZuwdtI03Hga8b/BP+xJmQoZQbQDpaL/jw0vkYrHns/Ybf+Z2PN8qYfLj5Ywu/ikgRWge72zzPCgRq7ADLXr8dDEQ4kFP23mqCKb/lVrqpk6y71Gq9l0mw6SpqYG4a5cHA/w9xnmjxhm8Qf1Qne0FLZr5dDHNIzh0s4Yh1YldRiMoeN1VdCV5U3MMFePl1q60y61NKJbDqiW9t/cHQ8d63TqFWO471/VhTxSDcUYllpXdeIoUzNMNe/ycHRXuXw5QwxJYX3vaVjP7o4WS83oHAxliNW5bxiQdwQyhhutH4/8qbUUZfBqaehwUdZTaDTQGskQBGpXNEMZpjDuv/0iy4iMYX06r6i+8uXvRgOvuhqq37cKZOzAj7EM0VFl5ZVMhtbJqhOtOcuwj/E/ppYhQHvLP1uUTgVae4PTq9DBMmgnxjIErsXer8bsMIO9zitkDGEMm+4hAD2e2g6xGime3/9IumeR89FT+mWV1Lc6jbpgaN2PaUKbBuuMYamt2bNItAqcfanHIgDTm54hSBfQ2hSO64S1ZbO5BapUuG5WabpsrVMU/p2hYmzoa+M3w6DvFNOoJFjvxkNfXRc6cgJoES7deBjARem4abA4/gJDoAd4tmsZFp7uJr1gSqipmqdqqt32a4DJ56B6Gc+A2QTZHtbinZr4dob6mAYdbM3IoM10vWMIPmzNUrTPov38ldnUtmz38XGzHCpeGKzjfVue1zjTfJDluJPF6Jts8zwFq34Jahfs40M3PPQMQdjG+8gFRf6vWcjpcGL4r4Vk+PfxH2D4OatC6AmAnD+/xi8xTzg8mTOuxtMDdfPfb71CLgZiX9EsReIOGg9mIttTY8C+GjTuGuoXIUtXrkGv6m446SGuaVUH+P7hpitxdUySrC79IKi3S/IyTRTTRKJ7bhy2de2TOT+KDhUOtMM1buzsaErVT06NwbImV+atvyK3/WBEUR1UdGIWfeCrQEP86valw21HAmESCQ4Yi48uakxNMlodaCeSNfZ6ZZb2ne4aI4QcNqPEX+9XIKL9K8lxwWEcDhhW+D+rA9jiGbBTdhk5MwcOnU7vaaO6wn8lU74heIenAimZMB36zH5IpMBS8n6yA3rdbvtOnxqjc4p174A19f41eVB17ZwZAlLaTWaepHVRs8+CHXDI9ENnE/84cYAbHCaMvVcVnm4nwz4HIdllEZIZg7H6AlHKspvuoHEnNVrgVgLdwI0RyDD3pqB7YjqG5J5bIjryvJpeR7J0Q56Csw+XBXB9/Du188LpveOxqaOWZLCr/oMj7t5q3ZglSFs9ciOnPjHsG7t94zTxXdzXxmyQHqMA1Xp1bkzvGZK0jQFOOuIGRUVnzMuqwQobJo65KsNp34DsghY/07DfFKiTV6A29FCOvEFRgL6+Bp1mjc3zwlThgyW9tAhAELnsNl3jHHd82XT37lIeRH50X0JA1cBc6lFwUompsCM6cuo0dQM1TR0FBahKsEkHnaaN0bGjizudHkFEL22WoI5AEg4aRwVjF2NG287RkOzzhrgxlhmqHJSFYNKtGIe8jHU8zd5jP1HGwC2DKtcRe+WyooMdti/31GnWGDjEw4cqyNdhbjjE15CupyDVu37TxmG+MEPsfsOgAXoZrXNX/18KmjptyCrCNqMy/cTP7CTfaaCXJKW2CotiBVJs+fgfIUIsE1EM/qSdZo2BSwsVSCa0zPHHO9q/4Z/MLeFb4YZuiW+gk9vqiFy9+2KpGzocsR9Col5m+Q1cFel/r3wdDAKxtzeeC7jWaade1JWQkJCQkJCQkJCQkJCQkJCQkJB4E/4PPMHInUuY/AUAAAAASUVORK5CYII=",COPE Logroño	
 https://wecast-m01-03.flumotion.com/copesedes/logrono.mp3
 
 #EXTINF:-1 tvg-logo="https://progressive.enetres.net/getPhoenixResource.php?u=863690D2607511E098B669C2DFD72085&f=embeds/02/live-default.jpg",RADIO CIRCULO MADRID
