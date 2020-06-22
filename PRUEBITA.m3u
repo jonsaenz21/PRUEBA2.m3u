@@ -219,7 +219,7 @@ http://95.216.150.122:1935/gcm4/gcm4/chunklist_w392197813.m3u8
 http://teledifusion.tv/rioja/rioja/chunklist_w542543280.m3u8
 
 #EXTINF:0,Popular TV La Rioja	
-https://live.vimeocdn.com/1592248973-0x385cdf92591c78825492ce67ae4b04c9d73ef8dc/27661780-55fb-4213-b98d-32f8d4f71043/chunklist_b3256000.m3u8?max_segments=10
+https://vod-progressive.akamaized.net/exp=1592853246~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F1291%2F17%2F431458928%2F1875945660.mp4~hmac=4040ce288948a4fef98bb3d9ca95e7efa0bea74646d9d0533d6b37b557a48901/vimeo-prod-skyfire-std-us/01/1291/17/431458928/1875945660.mp4
 
 #EXTINF:0,Popular TV Melilla	
 https://5940924978228.streamlock.net/8009/8009/master.m3u8
