@@ -8,9 +8,6 @@ https://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@584096/master.m3u8
 #EXTINF:-La 2 Rtve	 | HD
 https://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@60414/master.m3u8
 
-
-
-
 #EXTINF:-1, NEOX HD	
 https://livestartover.atresmedia.com/geoneox/bitrate_3.m3u8
 
@@ -62,7 +59,7 @@ http://congresodirecto-f.akamaihd.net/i/congreso3_1@72034/index_600_av-p.m3u8?sd
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 
 #EXTINF:0,NavarraTv 
-https://pc-sumandocomunicacion-hls.flumotion.com/promecal/live1_720p/chunks.m3u8
+https://pc-sumandocomunicacion-hls.flumotion.com/playlist.m3u8
 
 #EXTINF:0,Canal Parlamento- Subtitulado	
 http://congresodirecto-f.akamaihd.net/i/congreso4_1@53937/index_600_av-p.m3u8?sd=10&rebase=on
@@ -200,7 +197,7 @@ http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/master.m3u8
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/tvradio/index.m3u8
 
 #EXTINF:0,Navarra TV	
-https://pc-sumandocomunicacion-hls.flumotion.com/promecal/live1_720p/chunks.m3u8
+https://pc-sumandocomunicacion-hls.flumotion.com/playlist.m3u8
 
 #EXTINF:0,Parlamento de Navarra	
 https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8
