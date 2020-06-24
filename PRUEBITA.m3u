@@ -193,11 +193,11 @@ http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/master.m3u8
 #EXTINF:0,Webcam OndaMadrid	
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/tvradio/index.m3u8
 
-#EXTINF:0,Navarra TV	
-https://pc-sumandocomunicacion-hls.flumotion.com/promecal/live1_720p/chunks.m3u8
-
 #EXTINF:0,Parlamento de Navarra	
 https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8
+
+#EXTINF:0,Navarra TV	
+https://pc-sumandocomunicacion-hls.flumotion.com/promecal/live1_720p/chunks.m3u8
 
 #EXTINF:0,TeleRibera	
 http://37.187.7.106/teleribera/live.m3u8
