@@ -3,10 +3,12 @@
 https://dcunilive189-lh.akamaihd.net/i/dclive_1@15231/index_150_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1, LA 1 Rtve|HD
-https://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@584096/master.m3u8
+https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 
-#EXTINF:-La 2 Rtve	 | HD
-https://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@60414/master.m3u8
+
+#EXTINF:-La 2 Rtve|HD
+https://rtvelivestream.akamaized.net/la2_dvr.m3u8
+
 
 #EXTINF:-1, NEOX HD	
 https://livestartover.atresmedia.com/geoneox/bitrate_3.m3u8
@@ -44,7 +46,7 @@ http://linear02-i.akamaihd.net/hls/live/837816/energy/master.m3u8?hdnts=bb22a7fd
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8
 
 #EXTINF:0,+24 Rtve	
-http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve02_lv3_aosv4_gl0/irtve02_lv3_aosv4_gl0.isml/master.m3u8
+https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
 
 #EXTINF:0,Informativos Telecinco		
 https://mdslivehls-i.akamaihd.net/hls/live/571669/noticias/bitrate_1.m3u8
