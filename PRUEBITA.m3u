@@ -270,6 +270,10 @@ https://cadena100-cope.flumotion.com/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cadena100-cdnsta.agilecontent.com/cadena100-frontend/public/assets/img/logo-rss.png",CADENA 100 BARCELONA
 https://cadena100bcn-cope.flumotion.com/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/cmlmwnqzz26u.jpg",CADENA 100 Gipuzkoa 
+https://server8.emitironline.com:18196/stream
+
+
 #EXTINF:-1 tvg-logo="https://cadena100-cdnsta.agilecontent.com/cadena100-frontend/public/assets/img/logo-rss.png",CADENA 100 VEGAS ALTAS
 https://eu1.lhdserver.es:8017/stream?1592415557741
 
