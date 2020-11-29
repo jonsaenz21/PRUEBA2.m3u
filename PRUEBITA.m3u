@@ -9,9 +9,20 @@ https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 #EXTINF:-La 2 Rtve|HD
 https://rtvelivestream.akamaized.net/la2_dvr.m3u8
 
+#EXTINF:-Antena 3|HD
+https://livestartover.atresmedia.com/antena3/master.m3u8
+
+#EXTINF:-LaSexta|HD
+https://livestartover.atresmedia.com/lasexta/master.m3u8
 
 #EXTINF:-1, NEOX HD	
 https://livestartover.atresmedia.com/geoneox/bitrate_3.m3u8
+
+#EXTINF:-Nova|HD
+https://livestartover.atresmedia.com/geonova/master.m3u8
+
+#EXTINF:-Mega|HD
+https://livestartover.atresmedia.com/geomega/master.m3u8
 
 #EXTINF:0,BeMad
 http://linear02-i.akamaihd.net/hls/live/837815/bemad/master.m3u8?hdnts=bb22a7fda046cceead5da8d964caf620
@@ -179,10 +190,10 @@ https://cdnlive.shooowit.net/la8valladolidlive/smil:streamswitchingchannel.smil/
 https://cdnlive.shooowit.net/la8zamoralive/smil:streamswitchingchannel.smil/playlist.m3u8
 
 #EXTINF:0,La 1 Catalunya	
-https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@584095/master.m3u8
+https://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@117262/master.m3u8
 
 #EXTINF:0,La 2 Catalunya	
-https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@155343/master.m3u8
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@113085/master.m3u8
 
 #EXTINF:0,24h Catalunya	
 https://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@156275/master.m3u8
@@ -224,10 +235,10 @@ https://pc-la7delarioja-hls.flumotion.com/playlist.m3u8
 https://5940924978228.streamlock.net/8009/8009/master.m3u8
 
 #EXTINF:0,ETB 1	
-https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8?start=1592121605
+https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/index_2596_av-p.m3u8
 
 #EXTINF:0,ETB 2	
-https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8?start=1592120848
+https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/index_0796_av-b.m3u8?hd
 
 #EXTINF:0,ETB Deportes	
 https://etbvgeo-lh.akamaihd.net/i/OCA2HD_1@756104/master.m3u8
@@ -269,7 +280,7 @@ https://5924d3ad0efcf.streamlock.net/elcomerciodos/elcomerciodoslive/playlist.m3
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 
 #EXTINF:0,Popular TV Murcia	
-https://593fa17dec176.streamlock.net/gcm6/gcm6/chunklist_w779268016.m3u8
+https://5fa4275407563.streamlock.net:455/populartvrm/populartvrm/chunklist_w1454221305.m3u8
 
 #EXTINF:-1 tvg-logo="https://cadena100-cdnsta.agilecontent.com/cadena100-frontend/public/assets/img/logo-rss.png",CADENA 100
 https://cadena100-cope.flumotion.com/chunks.m3u8
@@ -280,12 +291,26 @@ https://cadena100bcn-cope.flumotion.com/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/cmlmwnqzz26u.jpg",CADENA 100 Gipuzkoa 
 https://server8.emitironline.com:18196/stream
 
+#EXTINF:-1 tvg-logo="http://www.radiocinca100.com/images/LOGO%20BOTON%20CUADRADO.jpg",CADENA 100 Cinca 
+https://srv5021.dns-lcinternet.com:8534/stream
+
+#EXTINF:-1 tvg-logo="https://www.radiosirena.es/wp-content/uploads/2018/05/estu_cad100.jpg",CADENA 100 Benidorm 
+http://rsirena.dnsalias.com:8000/cad100benidorm
 
 #EXTINF:-1 tvg-logo="https://cadena100-cdnsta.agilecontent.com/cadena100-frontend/public/assets/img/logo-rss.png",CADENA 100 VEGAS ALTAS
 https://eu1.lhdserver.es:8017/stream?1592415557741
 
 #EXTINF:-1 tvg-logo="https://bitfm.es/player/tmp/images/logo.1473956919.png",BIT FM
 https://server1.emitironline.com:8024/;
+
+#EXTINF:-1 tvg-logo="https://www.hitfm.es/wp-content/uploads/2019/06/Logo_footer.png",Hit FM
+https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbhitfm.kissfmradio.cires21.com/bbhitfm.mp3
+
+#EXTINF:-1 tvg-logo="https://radiologrono.es/wp-content/uploads/2020/02/Radiologron%CC%83o-facebook-fondo-300x111.jpg",Radio Logroño
+http://c217s2.dns-lcinternet.com:8000/soloradio_128
+
+#EXTINF:-1 tvg-logo="https://ondaocio.es/wp-content/uploads/2020/05/logito.png",Onda Ocio Logroño
+http://78.129.240.14:31198/stream
 
 #EXTINF:-1 tvg-logo="https://static.europafm.com/img/logo_EuropaFM_2.png",EUROPA FM
 https://livefastly-webs.europafm.com/europafm/audio/chunklist.m3u8
@@ -325,3 +350,6 @@ https://play.cdn.enetres.net/863690D2607511E098B669C2DFD72085028/02984/playlist.
 
 #EXTINF:-1 tvg-logo="https://tele7.tv/wp-content/uploads/2018/12/tele7-l.png",RADIO 7
 https://radio7.streaming-pro.com:6146/radio7.mp3
+
+#EXTINF:-1 tvg-logo="https://www.cadenadial.com/wp-content/themes/cadenadial-outspoken/images/logo_nuevo_cadena_dial_menu.png",Dial Mini
+https://21233.live.streamtheworld.com/CADENADIAL_04AAC.aac
