@@ -211,8 +211,14 @@ http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/tvradio/index.m3u8
 #EXTINF:0,Parlamento de Navarra	
 https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.navarratelevision.es/entorno/Cabeceras/CabeceraNATV.png?20201029",Navarra TV
+#EXTINF:-1 tvg-logo="https://www.navarratelevision.es/entorno/Cabeceras/CabeceraNATV.png?20201029",Navarra TV SD 1
 https://pc-sumandocomunicacion-hls.flumotion.com/promecal/live1_360p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.navarratelevision.es/entorno/Cabeceras/CabeceraNATV.png?20201029",Navarra TV SD 2
+https://pc-sumandocomunicacion-hls.flumotion.com/promecal/live1_480p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.navarratelevision.es/entorno/Cabeceras/CabeceraNATV.png?20201029",Navarra TV HD
+https://pc-sumandocomunicacion-hls.flumotion.com/promecal/live1_720p/chunks.m3u8
 
 #EXTINF:0,TeleRibera	
 http://37.187.7.106/teleribera/live.m3u8
@@ -224,8 +230,14 @@ http://95.216.150.122:1935/gcm4/gcm4/chunklist_w392197813.m3u8
 http://teledifusion.tv/rioja/rioja/chunklist_w542543280.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://populartvlarioja.com/wp-content/uploads/2020/10/logo_cyan.png",PopularTV La Rioja
-https://pc-la7delarioja-hls.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://populartvlarioja.com/wp-content/uploads/2020/10/logo_cyan.png",PopularTV La Rioja HD
+https://pc-la7delarioja-hls.flumotion.com/promecal/live3_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://populartvlarioja.com/wp-content/uploads/2020/10/logo_cyan.png",PopularTV La Rioja SD 1
+https://pc-la7delarioja-hls.flumotion.com/promecal/live3_360p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://populartvlarioja.com/wp-content/uploads/2020/10/logo_cyan.png",PopularTV La Rioja SD 2
+https://pc-la7delarioja-hls.flumotion.com/promecal/live3_480p/chunks.m3u8
 
 #EXTINF:0,Popular TV Melilla	
 https://5940924978228.streamlock.net/8009/8009/master.m3u8
