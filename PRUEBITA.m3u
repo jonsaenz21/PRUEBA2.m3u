@@ -2,11 +2,10 @@
 #EXTINF:0,JONVLOGS21Tv	
 https://dcunilive189-lh.akamaihd.net/i/dclive_1@15231/index_150_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1, LA 1 Rtve|HD
-https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
+#EXTINF:-1 tvg-logo="https://img2.rtve.es/css/rtve.commons/rtve.multisign2014/custom/CTV_LA1/i/mosca_CTV_LA1.png",La 1
+https://rtvelivestream.akamaized.net/la1_dvr_1850.m3u8
 
-
-#EXTINF:-La 2 Rtve|HD
+#EXTINF:-1 tvg-logo="https://img2.rtve.es/css/rtve.commons/rtve.multisign2014/custom/CTV_LA2/i/mosca_CTV_LA2.png",La 2
 https://rtvelivestream.akamaized.net/la2_dvr.m3u8
 
 #EXTINF:-Antena 3|HD
@@ -44,26 +43,23 @@ http://directo.fibwi.com/stream/stream_Fight_Time/fighttime.m3u8
 #EXTINF:0,Super 3
 https://directes-tv-es.ccma.cat/es/ngrp:c33_web/playlist.m3u8
 
-#EXTINF:0,SP:La 1
-https://rtvelivestream.akamaized.net/la1_dvr_1850.m3u8
-
 #EXTINF:0,BE MAD
 http://linear02-i.akamaihd.net/hls/live/837815/bemad/master.m3u8?hdnts=bb22a7fda046cceead5da8d964caf620
 
 #EXTINF:0,SP:Energy
 http://linear02-i.akamaihd.net/hls/live/837816/energy/master.m3u8?hdnts=bb22a7fda046cceead5da8d964caf620
 
-#EXTINF:-1, ETBEUS
-http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://images14.eitb.eus/multimedia/recursos/generales/tira_zuzenean_zuria/etb_sat.png",EitbSat
+https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8?sd=8&rebase=on
 
 #EXTINF:0,+24 Rtve	
 https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
 
-#EXTINF:0,Informativos Telecinco		
+#EXTINF:-1 tvg-logo="https://baul.mediaset.es/dist/assets/favicon/telecinco/mstile-150x150.png",Informativos Telecinco
 https://mdslivehls-i.akamaihd.net/hls/live/571669/noticias/bitrate_1.m3u8
 
-#EXTVLCOPT:Canal Parlamento	
-https://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.congreso.es/webpublica/ficherosportal/logo_actual.png",Canal Parlamento
+https://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8?DVR
 
 #EXTINF:0,Canal Parlamento- Lenguaje de Signos
 http://congresodirecto-f.akamaihd.net/i/congreso3_1@72034/index_600_av-p.m3u8?sd=10&rebase=on
@@ -74,41 +70,40 @@ http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 #EXTINF:0,Canal Parlamento- Subtitulado	
 http://congresodirecto-f.akamaihd.net/i/congreso4_1@53937/index_600_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:0,La Moncloa (Presidente)	
+#EXTINF:-1 tvg-logo="https://www.lamoncloa.gob.es/Theme/RLaMoncloa/img/logo-moncloa.svg",La Moncloa (Presidente)
 https://cdnswitch-mediahub.overon.es/stream/stream.m3u8?key=R6w5wbcxW3dLF9aNOGEsHuoNhqfSJoiRWNDWLLfNslI&pwd=QheEdHkaeHFGDHJgIwzUDoqcVjjFMef8TMGuGvkMets&stream=y3-IxQxNk4XjlfJDtBjIh7tfO628d9gbkd010uKioms&output=ginkIjHWeyffMLRZNMVovht3RnH_feedjshkMm7sr14&channel=D1tXjvcs_5NeEEMxP6mrmSggh3Uyu3kE5jyqGlgCZ4A&protocol=4CMm-Q0epGZ0SHQGeELoqqA2gfzFVCFwoiACYszyPM4&type=3pIgQ1TALsxZg7Zf0kZLkA4InWPfKONROAImuoufxKg
 
-#EXTINF:0,La Moncloa (Ministros)	
+#EXTINF:-1 tvg-logo="https://www.lamoncloa.gob.es/Theme/RLaMoncloa/img/logo-moncloa.svg",La Moncloa (Ministros)
 https://cdnswitch-mediahub.overon.es/stream/stream.m3u8?key=R6w5wbcxW3dLF9aNOGEsHuoNhqfSJoiRWNDWLLfNslI&pwd=QheEdHkaeHFGDHJgIwzUDoqcVjjFMef8TMGuGvkMets&stream=o0RCNMRf-BPdBiuDSId7vbxANj4YFVpbXkxNkFKm35s&output=z3mwepuDBMOnja63VsgAcCGwmmOPD-I5yFYOiyCvBcc&channel=FBDoImE2NP77XpNbdycjnwCkI0YjxLeqTKr8QGV9bAI&protocol=4CMm-Q0epGZ0SHQGeELoqqA2gfzFVCFwoiACYszyPM4&type=3pIgQ1TALsxZg7Zf0kZLkA4InWPfKONROAImuoufxKg
 
 #EXTINF:0,SENADO	
 http://senadolive.akamaized.net/hls/live/2006591/punto2/master.m3u8
 
-#EXTINF:0,Melilla TV
-https://tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.inmusa.es/wp-content/uploads/2019/12/RTVM_logo.png",MelillaTV
+https://tvmelilla-hls-rm-lw.flumotion.com/tvmelilla/live-fake-ori_high/chunks.m3u8
 
-#EXTINF:0,7TV Murcia
-http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+#EXTINF:-1 tvg-logo="http://statics.7tvregiondemurcia.es/uploads/default/contingut-gran-mitjana.jpg",7Tv Murcia
+https://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:0,13 TV
-https://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://cope-cdnsta.agilecontent.com/resources/svg/5/9/1605517742995.svg",PopularTV La Rioja2
+https://live-edge-lon-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live-898/index.m3u8
 
-#EXTINF:0,SP:Radio Nacional	
+#EXTINF:-1 tvg-logo="https://img2.rtve.es/resources/thumbslive/1938076.jpg",webcam RNE1
 https://rtvev4-live-hss.secure.footprint.net/egress/ahandler/rtvegl0/irtve08_lv3_aosv4_gl0/irtve08_lv3_aosv4_gl0.isml/master.m3u8?hls_no_audio_only
 
-#EXTINF:0,SP:Radio 3	
-https://rtvev4-live-hss.secure.footprint.net/egress/ahandler/rtvegl0/rne_c201_lv3_aosv4_gl0/rne_c201_lv3_aosv4_gl0.isml/master.m3u8
-
-#EXTINF:0,SP:C. Radio 24h Rtve	
+#EXTINF:-1 tvg-logo="https://img2.rtve.es/resources/thumbslive/2798272.jpg",24H RTVE
 https://rtvev4-live-hss.secure.footprint.net/egress/ahandler/rtvegl0/rne_c102_lv3_aosv4_gl0/rne_c102_lv3_aosv4_gl0.isml/master.m3u8
 
-#EXTINF:0,SP:Del 40 al 1	HD
+#EXTINF:-1 tvg-logo="https://img2.rtve.es/v/2795617?w=1600",Radio3 RTVE
+https://rtvev4-live-hss.secure.footprint.net/egress/ahandler/rtvegl0/rne_c201_lv3_aosv4_gl0/rne_c201_lv3_aosv4_gl0.isml/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://del40al1.los40.com/del40al1/img/Logo_40al1_Directo.png",Del 40 al 1 HD
 https://prisaradio-live.prisasd.com/live-content/directo40al1/bitrate_3.m3u8
 
-
-#EXTINF:0,SP:Del 40 al 1	SD
+#EXTINF:-1 tvg-logo="https://recursosweb.prisaradio.com/fotos/original/010002766334.png",Del 40 al 1 SD
 https://prisaradio-live.prisasd.com/live-content/directo40al1/bitrate_1.m3u8
 
-#EXTINF:0,SP:Del 40 al 1	SD 2
+#EXTINF:-1 tvg-logo="https://recursosweb.prisaradio.com/fotos/original/010002567586.png",Del 40 al 1 SD2
 https://prisaradio-live.prisasd.com/live-content/directo40al1/bitrate_2.m3u8
 
 #EXTINF:0,SP:Aragon TV - Aragon
@@ -216,7 +211,7 @@ http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/tvradio/index.m3u8
 #EXTINF:0,Parlamento de Navarra	
 https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8
 
-#EXTINF:0,Navarra TV	
+#EXTINF:-1 tvg-logo="https://www.navarratelevision.es/entorno/Cabeceras/CabeceraNATV.png?20201029",Navarra TV
 https://pc-sumandocomunicacion-hls.flumotion.com/promecal/live1_360p/chunks.m3u8
 
 #EXTINF:0,TeleRibera	
