@@ -49,11 +49,17 @@ http://linear02-i.akamaihd.net/hls/live/837815/bemad/master.m3u8?hdnts=bb22a7fda
 #EXTINF:0,SP:Energy
 http://linear02-i.akamaihd.net/hls/live/837816/energy/master.m3u8?hdnts=bb22a7fda046cceead5da8d964caf620
 
-#EXTINF:-1 tvg-logo="https://images14.eitb.eus/multimedia/recursos/generales/tira_zuzenean_zuria/etb_sat.png",EitbSat
-https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8?sd=8&rebase=on
 
 #EXTINF:0,+24 Rtve	
 https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/cW49YwSM3wk/maxresdefault.jpg",Cadena 100 Eventos (1)
+https://programa-live.flumotion.com/programa-live/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/cW49YwSM3wk/maxresdefault.jpg",Cadena 100 Eventos (2)
+https://jonvlogs21.es/wp-content/uploads/2021/02/96793286_1602010309952397_1510903755963367424_o-1024x479.jpg
+
 
 #EXTINF:-1 tvg-logo="https://baul.mediaset.es/dist/assets/favicon/telecinco/mstile-150x150.png",Informativos Telecinco
 https://mdslivehls-i.akamaihd.net/hls/live/571669/noticias/bitrate_1.m3u8
