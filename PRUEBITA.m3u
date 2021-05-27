@@ -295,6 +295,9 @@ http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 #EXTINF:0,Popular TV Murcia	
 https://5fa4275407563.streamlock.net:455/populartvrm/populartvrm/chunklist_w1454221305.m3u8
 
+#EXTINF:0,Onda Cero Eventos	
+https://live-estudio.ondacero.es/estudio_oc-pull/video/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cadena100-cdnsta.agilecontent.com/cadena100-frontend/public/assets/img/logo-rss.png",CADENA 100
 https://cadena100-cope.flumotion.com/chunks.m3u8
 
