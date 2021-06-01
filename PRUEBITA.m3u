@@ -30,7 +30,6 @@ http://linear02-i.akamaihd.net/hls/live/837815/bemad/master.m3u8?hdnts=bb22a7fda
 http://linear02-i.akamaihd.net/hls/live/837813/fdf/master.m3u8?hdnts=bb22a7fda046cceead5da8d964caf620
 
 
-
 #EXTINF:-1,REAL MADRID TV HD
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
 
@@ -98,6 +97,9 @@ https://rtvev4-live-hss.secure.footprint.net/egress/ahandler/rtvegl0/irtve08_lv3
 
 #EXTINF:-1 tvg-logo="https://img2.rtve.es/resources/thumbslive/2798272.jpg",24H RTVE
 https://rtvev4-live-hss.secure.footprint.net/egress/ahandler/rtvegl0/rne_c102_lv3_aosv4_gl0/rne_c102_lv3_aosv4_gl0.isml/master.m3u8
+
+#EXTINF:-emisión audio TRECE|HD
+https://live-edge-lon-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5024/live-128/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://img2.rtve.es/v/2795617?w=1600",Radio3 RTVE
 https://rtvev4-live-hss.secure.footprint.net/egress/ahandler/rtvegl0/rne_c201_lv3_aosv4_gl0/rne_c201_lv3_aosv4_gl0.isml/master.m3u8
