@@ -303,6 +303,9 @@ https://live-estudio.ondacero.es/estudio_oc-pull/video/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://cadena100-cdnsta.agilecontent.com/cadena100-frontend/public/assets/img/logo-rss.png",CADENA 100
 https://cadena100-cope.flumotion.com/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://rockfm-cdnmed.agilecontent.com/resources/jpg/4/8/1609859732584.jpg",Rock Fm
+https://hls-directo03-cope-stream.flumotion.com/cope/directo03/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cadena100-cdnsta.agilecontent.com/cadena100-frontend/public/assets/img/logo-rss.png",CADENA 100 BARCELONA
 https://cadena100bcn-cope.flumotion.com/chunks.m3u8
 
