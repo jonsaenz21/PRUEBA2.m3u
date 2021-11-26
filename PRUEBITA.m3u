@@ -277,7 +277,7 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/568968/85688294001/playlist.m3u8
 #EXTINF:0,Diario Vasco	
 https://bcovlive-a.akamaihd.net/2c8643c826474190a730478048dbe1ca/eu-central-1/85688294001/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.canal10tv.com/img/player-directo.jpg",La 1
+#EXTINF:-1 tvg-logo="http://www.canal10tv.com/img/player-directo.jpg",Canal 10 Asturias
 https://5924d3ad0efcf.streamlock.net/elcomerciodos/elcomerciodoslive/playlist.m3u8
 
 #EXTINF:0,Goierri Irrati Telebista	
