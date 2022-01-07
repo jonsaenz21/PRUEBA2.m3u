@@ -277,6 +277,9 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/568968/85688294001/playlist.m3u8
 #EXTINF:0,Diario Vasco	
 https://bcovlive-a.akamaihd.net/2c8643c826474190a730478048dbe1ca/eu-central-1/85688294001/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cartv.es/theme/cartv-2017/images/radio/mainheader/logo-aragonradio.png?5bc168b0ad", Aragón Radio Eventos
+https://cartv.streaming.aranova.es/hls/live/aragonradio_ocasional2.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.canal10tv.com/img/player-directo.jpg",Canal 10 Asturias
 https://5924d3ad0efcf.streamlock.net/elcomerciodos/elcomerciodoslive/playlist.m3u8
 
