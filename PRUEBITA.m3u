@@ -332,12 +332,14 @@ https://srv5021.dns-lcinternet.com:8534/stream
 http://rsirena.dnsalias.com:8000/cad100benidorm
 
 
-#EXTINF:-1 tvg-logo="https://jonvlogs21.es/wp-content/uploads/2021/12/cropped-image.png",RadioJonvlogs21 
+#EXTINF:-1 tvg-logo="https://jonvlogs21.es/wp-content/uploads/2021/12/cropped-image.png",RadioJonvlogs21 (ANTIGUO)
 https://stream.zeno.fm/y2fr3wuvezzuv
 
+#EXTINF:-1 tvg-logo="hhttps://jonvlogs21.es/wp-content/uploads/2022/08/lgotipo.png",RadioJonvlogs21
+http://server10.emitironline.com:10562/stream
 
 #EXTINF:-1 tvg-logo="https://jonvlogs21.es/wp-content/uploads/2022/01/TEMAZOS_FM_1_-removebg-preview-560x375.png",TEMAZOS FM (RadioJonvlogs21)
-https://stream.zeno.fm/4z3mdr9hwf9uv.mp3
+http://server10.emitironline.com:10562/stream
 
 #EXTINF:-1 tvg-logo="https://cadena100-cdnsta.agilecontent.com/cadena100-frontend/public/assets/img/logo-rss.png",CADENA 100 VEGAS ALTAS
 https://eu1.lhdserver.es:8017/stream?1592415557741
