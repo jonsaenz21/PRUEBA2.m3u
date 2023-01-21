@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0,JONVLOGS21Tv	
-https://dcunilive189-lh.akamaihd.net/i/dclive_1@15231/index_150_av-p.m3u8?sd=10&rebase=on
+https://cdnhd.iblups.com/hls/efHwZ0rSh0.m3u8
 
 #EXTINF:-1 tvg-logo="https://rockfm-cdnmed.agilecontent.com/resources/png/2/5/1655972894552.png",CADENA 100 CONCIERTO 30 ANIVERSARIO
 https://hls-directo02-cope-stream.flumotion.com/playlist.m3u8
@@ -317,7 +317,7 @@ https://live-estudio.ondacero.es/estudio_oc-pull/video/chunklist.m3u8
 https://cadena100-cope.flumotion.com/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://rockfm-cdnmed.agilecontent.com/resources/jpg/4/8/1609859732584.jpg",Rock Fm
-https://hls-directo03-cope-stream.flumotion.com/chunks.m3u8
+https://hls-directo03-cope-stream.flumotion.com/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cadena100-cdnsta.agilecontent.com/cadena100-frontend/public/assets/img/logo-rss.png",CADENA 100 BARCELONA
 https://cadena100bcn-cope.flumotion.com/chunks.m3u8
